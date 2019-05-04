@@ -24,7 +24,7 @@ build:
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.55.2
-  preview_output_directory: public
+  preview_output_directory: dist
   output_directory: public
   instant_preview_command: npm run preview
 version: 0.55.2
