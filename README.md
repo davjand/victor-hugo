@@ -102,6 +102,12 @@ You can access the environment variable inside the theme files with `getenv "NOD
 
 All tasks starting with _build_ set the environment variable to `production` - the other will set it to `development`.
 
+## Import into forestry.io
+
+[![mport this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=davjand/victor-hugo&engine=hugo&version=0.55.5)
+
+
+
 ## Deploying to Netlify
 
 - Push your clone to your own GitHub repository.
@@ -111,6 +117,7 @@ Now Netlify will build and deploy your site whenever you push to git.
 
 You can also click this button:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/davjand/victor-hugo)
 
 ## Enjoy!! 😸
