@@ -1,5 +1,9 @@
 # Victor Hugo
 
+**Fork for compatbility out of the box with [Forestry.io](https://forestry.io)**
+
+[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=davjand/victor-hugo&engine=hugo&version=0.55.2)
+
 **A Hugo boilerplate for creating truly epic websites**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
@@ -101,11 +105,6 @@ You can access the environment variable inside the theme files with `getenv "NOD
     {{ if eq (getenv "NODE_ENV") "development" }}You're in development!{{ end }}
 
 All tasks starting with _build_ set the environment variable to `production` - the other will set it to `development`.
-
-## Import into forestry.io
-
-[![mport this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=davjand/victor-hugo&engine=hugo&version=0.55.5)
-
 
 
 ## Deploying to Netlify

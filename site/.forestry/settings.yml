@@ -25,6 +25,6 @@ build:
   - HUGO_ENV=production
   - HUGO_VERSION=0.55.2
   preview_output_directory: dist
-  output_directory: public
+  output_directory: dist
   instant_preview_command: npm run preview
 version: 0.55.2
