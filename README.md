@@ -2,6 +2,8 @@
 
 **Fork for compatbility out of the box with [Forestry.io](https://forestry.io)**
 
+---
+
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=davjand/victor-hugo&engine=hugo&version=0.55.2)
 
 **A Hugo boilerplate for creating truly epic websites**
